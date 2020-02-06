@@ -1,0 +1,13 @@
+[package]
+name = "kumagraph"
+version = "0.0.1"
+authors = ["garasubo <garasubo@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "graph library"
+homepage = "https://garasubo.github.io/hexo/2020/02/05/rust-graph.html"
+documentation = "https://garasubo.github.io/hexo/2020/02/05/rust-graph.html"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
