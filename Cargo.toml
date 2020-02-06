@@ -7,6 +7,7 @@ license = "MIT"
 description = "graph library"
 homepage = "https://garasubo.github.io/hexo/2020/02/05/rust-graph.html"
 documentation = "https://garasubo.github.io/hexo/2020/02/05/rust-graph.html"
+repository = "https://github.com/garasubo/kumagraph"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
